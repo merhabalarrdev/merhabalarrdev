@@ -75,8 +75,6 @@ CS 1.6 ile uzun yıllardır uğraşıyorum. Sunucularda geçirdiğim zamanla bir
 
 <br/>
 
-<a href="https://discord.com/users/978749413654671370" target="_blank">
   <img src="https://lanyard.cnrad.dev/api/978749413654671370?theme=tokyonight&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" />
-</a>
-
+  
 </div>
