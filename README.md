@@ -20,7 +20,15 @@ Most of my plugins are built for Zombie Plague / Zombie Escape servers — banki
 
 ---
 
-### 🛠️ Teknolojiler / Technologies
+### 🇰🇷 소개
+
+오랜 시간 CS 1.6을 플레이해 왔습니다. 오랫동안 서버에서 게임을 즐기다가 자연스럽게 플러그인 개발에 관심을 갖게 되었습니다. Pawn 언어는 존경하는 분께 배웠으며, 지금도 계속 배우는 중입니다. 요즘은 다른 프로그래밍 언어도 공부하기 시작했습니다.
+
+제가 만드는 플러그인은 주로 Zombie Plague / Zombie Escape 서버용입니다 — 은행 시스템, 펫 시스템, 설정 플러그인 등. 터키어, 영어, 한국어 다국어 지원을 항상 신경 씁니다.
+
+---
+
+### 🛠️ Teknolojiler / Technologies / 기술
 
 ![Pawn](https://img.shields.io/badge/Pawn-AMX%20Mod%20X-5c6bc0?style=for-the-badge)
 ![CS 1.6](https://img.shields.io/badge/Counter--Strike%201.6-Plugin%20Dev-b71c1c?style=for-the-badge)
@@ -29,14 +37,14 @@ Most of my plugins are built for Zombie Plague / Zombie Escape servers — banki
 
 ---
 
-### 📦 Projeler / Projects
+### 📦 Projeler / Projects / 프로젝트
 
-| # | Proje / Project | Açıklama / Description |
-|---|---|---|
-| 🧟 | [Novaria ZE Plague Mode](https://github.com/merhabalarrdev/Counter-Strike-1.6-Novaria-Zombie-Escape-Plague-Mode-) | Özel mod sistemi, sınıflar, envanter, VIP — TR/EN/KO |
-| 🏦 | [Advanced Bank System](https://github.com/merhabalarrdev/Counter-Strike-1.6-Zombie-Plague-Advanced-Bank-System) | Ammo pack bankacılık sistemi, login/kayıt, başarımlar |
-| 🐾 | [Advanced Pet System](https://github.com/merhabalarrdev/Counter-Strike-1.6-Advanced-Pet-System) | Evcil hayvan satın alma, admin paneli — TR/EN/KO |
-| 💡 | [Advanced Light Settings](https://github.com/merhabalarrdev/Counter-Strike-1.6-novaria-advanced-light-settings) | Oyuncu başına ekran parlaklığı kontrolü |
+| # | Proje / Project / 프로젝트 | TR | EN | KO |
+|---|---|---|---|---|
+| 🧟 | [Novaria ZE Plague Mode](https://github.com/merhabalarrdev/Counter-Strike-1.6-Novaria-Zombie-Escape-Plague-Mode-) | Özel mod, sınıflar, envanter, VIP | Custom modes, classes, inventory, VIP | 커스텀 모드, 클래스, 인벤토리, VIP |
+| 🏦 | [Advanced Bank System](https://github.com/merhabalarrdev/Counter-Strike-1.6-Zombie-Plague-Advanced-Bank-System) | Ammo pack bankacılık, login/kayıt | Ammo pack banking, login/register | 탄약 팩 은행, 로그인/가입 |
+| 🐾 | [Advanced Pet System](https://github.com/merhabalarrdev/Counter-Strike-1.6-Advanced-Pet-System) | Evcil hayvan satın alma, admin paneli | Pet buying, admin panel | 펫 구매, 관리자 패널 |
+| 💡 | [Advanced Light Settings](https://github.com/merhabalarrdev/Counter-Strike-1.6-novaria-advanced-light-settings) | Oyuncu başına parlaklık kontrolü | Per-player brightness control | 플레이어별 밝기 조절 |
 
 ---
 
