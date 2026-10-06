@@ -1,6 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=5C6BC0&center=true&vCenter=true&width=600&lines=Hey%2C+ben+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Developer;AMX+Mod+X+%7C+Pawn+%7C+ReAPI" alt="Typing SVG" />
+<img align="right" src="https://flagcdn.com/48x36/tr.png" alt="TR" />
+<img align="right" src="https://flagcdn.com/48x36/kr.png" alt="KR" style="margin-right:4px" />
+<img align="right" src="https://flagcdn.com/48x36/gb.png" alt="EN" style="margin-right:4px" />
+
+<br/>
+
+<!-- Türkçe - kırmızı, wave efekti -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=E53935&center=true&vCenter=true&width=620&lines=Hey%2C+ben+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Geli%C5%9Ftiricisi+%F0%9F%87%B9%F0%9F%87%B7" alt="TR" />
+
+<!-- İngilizce - beyaz, blink efekti -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Developer+%F0%9F%87%AC%F0%9F%87%A7" alt="EN" />
+
+<!-- Korece - beyaz, farklı font -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=26&pause=2000&color=FFFFFF&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%2C+merhabalarrdev%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;CS+1.6+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90+%F0%9F%87%B0%F0%9F%87%B7" alt="KO" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=5C6BC0&center=true&vCenter=true&width=620&lines=AMX+Mod+X+%7C+Pawn+%7C+ReAPI" alt="Tech" />
 
 ---
 
