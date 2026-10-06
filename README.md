@@ -17,7 +17,7 @@
 <div align="left">
 
 <a href="https://steamcommunity.com/profiles/76561199508358627/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam_Profilim-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="32">
+  <img src="https://img.shields.io/badge/Steam-Profilim%20%7C%20Profile%20%7C%20%EC%8A%A4%ED%8C%80%20%ED%94%84%EB%A1%9C%ED%95%84-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="32">
 </a>
 
 <br/><br/>
@@ -81,5 +81,3 @@ CS 1.6 ile uzun yıllardır uğraşıyorum. Sunucularda geçirdiğim zamanla bir
 <img src="https://lanyard.cnrad.dev/api/978749413654671370?theme=tokyonight&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" />
 
 </div>
-
-```
