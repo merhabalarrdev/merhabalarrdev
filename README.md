@@ -45,16 +45,12 @@ CS 1.6 ile uzun yıllardır uğraşıyorum. Sunucularda geçirdiğim zamanla bir
 
 ### Kullandığım Kütüphaneler | Libraries Used | 사용 라이브러리
 
-![CS 1.6](https://img.shields.io/badge/Counter--Strike%201.6-Plugin%20Dev-b71c1c?style=for-the-badge)
-![Pawn](https://img.shields.io/badge/Pawn-AMX%20Mod%20X-5c6bc0?style=for-the-badge)
-![Cstrike](https://img.shields.io/badge/Cstrike-Library-8e24aa?style=for-the-badge)
+![Pawn](https://img.shields.io/badge/Pawn-Language-5c6bc0?style=for-the-badge)
+![AMX Mod X](https://img.shields.io/badge/AMX%20Mod%20X-Core-1976D2?style=for-the-badge)
 ![ReAPI](https://img.shields.io/badge/ReAPI-ReHLDS-00695c?style=for-the-badge)
-![Fakemeta](https://img.shields.io/badge/Fakemeta-Library-e65100?style=for-the-badge)
-![HamSandwich](https://img.shields.io/badge/HamSandwich-Library-f57f17?style=for-the-badge)
+![HamSandwich](https://img.shields.io/badge/HamSandwich-Hooks-f57f17?style=for-the-badge)
+![Fakemeta](https://img.shields.io/badge/Fakemeta-Engine%20API-e65100?style=for-the-badge)
 ![XS](https://img.shields.io/badge/XS-Vector%20Math-00acc1?style=for-the-badge)
-![Engine](https://img.shields.io/badge/Engine-Library-0d47a1?style=for-the-badge)
-![Fun](https://img.shields.io/badge/Fun-Library-2e7d32?style=for-the-badge)
-![CSX](https://img.shields.io/badge/CSX-Stats%20Library-d84315?style=for-the-badge)
 
 ---
 
