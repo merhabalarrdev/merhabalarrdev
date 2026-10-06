@@ -73,8 +73,4 @@ CS 1.6 ile uzun yıllardır uğraşıyorum. Sunucularda geçirdiğim zamanla bir
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhabalarrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </p>
 
-<br/>
-
-<img src="https://lanyard.cnrad.dev/api/978749413654671370?theme=tokyonight&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" />
-
 </div>
