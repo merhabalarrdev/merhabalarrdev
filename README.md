@@ -16,9 +16,21 @@
 
 <br/>
 
-<a href="https://steamcommunity.com/profiles/76561199508358627/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-</a>
+<div align="center">
+  <h3>📫 Bana Ulaşın / Contact</h3>
+  
+  <!-- CANLI DISCORD DURUMU (Lanyard API) -->
+  <a href="https://discord.com/users/978749413654671370" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/DISCORD_ID_BURAYA?theme=tokyonight&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" />
+  </a>
+  
+  <br><br>
+
+  <!-- STEAM ROZETİ -->
+  <a href="https://steamcommunity.com/profiles/76561199508358627/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="35">
+  </a>
+</div>
 
 ---
 
