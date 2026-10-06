@@ -8,16 +8,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=E53935&center=true&vCenter=true&width=620&lines=Hey%2C+ben+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Geli%C5%9Ftiricisi+%F0%9F%87%B9%F0%9F%87%B7" alt="TR" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Developer+%F0%9F%87%AC%F0%9F%87%A7" alt="EN" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=24&pause=2000&color=FFFFFF&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%2C+merhabalarrdev%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;CS+1.6+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90+%F0%9F%87%B0%F0%9F%87%B0" alt="KO" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=E53935&center=true&vCenter=true&width=600&height=50&lines=Hey%2C+ben+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Geli%C5%9Ftiricisi;CS+1.6+Plugin+Developer;AMX+Mod+X+%7C+Pawn+%7C+ReAPI" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=5C6BC0&center=true&vCenter=true&width=620&lines=AMX+Mod+X+%7C+Pawn+%7C+ReAPI+%7C+Fakemeta+%7C+HamSandwich" alt="Tech" />
-
-<br/><br/>
+<br/>
 
 <a href="https://steamcommunity.com/profiles/76561199508358627/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="38">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="30">
+</a>
+<a href="https://discord.com/users/978749413654671370" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30">
 </a>
 
 ---
@@ -76,5 +75,11 @@ CS 1.6 ile uzun yıllardır uğraşıyorum. Sunucularda geçirdiğim zamanla bir
   <img src="https://github-readme-stats.vercel.app/api?username=merhabalarrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhabalarrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </p>
+
+<br/>
+
+<a href="https://discord.com/users/978749413654671370" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/978749413654671370?theme=tokyonight&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" />
+</a>
 
 </div>
