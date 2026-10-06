@@ -8,19 +8,19 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=E53935&center=true&vCenter=true&width=620&height=50&lines=Selam%2C+ben+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Geli%C5%9Ftiricisi+%F0%9F%87%B9%F0%9F%87%B7;Hi%2C+I'm+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Developer+%F0%9F%87%AC%F0%9F%87%A7;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+merhabalarrdev%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;CS+1.6+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90+%F0%9F%87%B0%F0%9F%87%B7;AMX+Mod+X+%7C+Pawn+%7C+ReAPI" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://steamcommunity.com/profiles/76561199508358627/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="30">
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=E53935&center=true&vCenter=true&width=620&height=50&lines=Selam%2C+ben+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Geli%C5%9Ftiricisi+%F0%9F%87%B9%F0%9F%87%B7;Hi%2C+I'm+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Developer+%F0%9F%87%AC%F0%9F%87%A7;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+merhabalarrdev%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;CS+1.6+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90+%F0%9F%87%B0%F0%9F%87%B0;AMX+Mod+X+%7C+Pawn+%7C+ReAPI" alt="Typing SVG" />
 
 ---
 
 ### Hakkımda | About Me | 소개
 
 <div align="left">
+
+<a href="https://steamcommunity.com/profiles/76561199508358627/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam_Profilim-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="32">
+</a>
+
+<br/><br/>
 
 **🇹🇷 Türkçe:**  
 CS 1.6 ile uzun yıllardır uğraşıyorum. Sunucularda geçirdiğim zamanla birlikte plugin yazmaya merak sardım. Pawn dilini değerli bir abiden öğrendim, hâlâ öğreniyorum. Zombie Plague ve Zombie Escape modlarına yönelik pluginler (banka, pet, ışık ayarları) yazıyorum. Ayrıca CS 1.6'ya uyarladığım, aktif bir sunucuda çalışan özel bir **Valorant modu** geliştirdim.
@@ -78,6 +78,8 @@ CS 1.6 ile uzun yıllardır uğraşıyorum. Sunucularda geçirdiğim zamanla bir
 
 <br/>
 
-  <img src="https://lanyard.cnrad.dev/api/978749413654671370?theme=tokyonight&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" />
-  
+<img src="https://lanyard.cnrad.dev/api/978749413654671370?theme=tokyonight&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" />
+
 </div>
+
+```
