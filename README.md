@@ -1,76 +1,58 @@
 <div align="center">
 
-<div align="right">
-  <img src="https://flagcdn.com/24x18/tr.png" alt="TR" style="margin-right:4px"/>
-  <img src="https://flagcdn.com/24x18/gb.png" alt="EN" style="margin-right:4px"/>
-  <img src="https://flagcdn.com/24x18/kr.png" alt="KR" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=E53935&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Developer;AMX+Mod+X+%7C+Pawn+%7C+ReAPI" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=E53935&center=true&vCenter=true&width=620&height=50&lines=Selam%2C+ben+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Geli%C5%9Ftiricisi+%F0%9F%87%B9%F0%9F%87%B7;Hi%2C+I'm+merhabalarrdev+%F0%9F%91%8B;CS+1.6+Plugin+Developer+%F0%9F%87%AC%F0%9F%87%A7;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+merhabalarrdev%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;CS+1.6+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90+%F0%9F%87%B0%F0%9F%87%B0;AMX+Mod+X+%7C+Pawn+%7C+ReAPI" alt="Typing SVG" />
-
----
-
-### Hakkımda | About Me | 소개
-
-<div align="left">
-
-<a href="https://steamcommunity.com/profiles/76561199508358627/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-Profilim%20%7C%20Profile%20%7C%20%EC%8A%A4%ED%8C%80%20%ED%94%84%EB%A1%9C%ED%95%84-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="32">
-</a>
-
-<br/><br/>
-
-**🇹🇷 Türkçe:**  
-CS 1.6 ile uzun yıllardır uğraşıyorum. Sunucularda geçirdiğim zamanla birlikte plugin yazmaya merak sardım. Pawn dilini değerli bir abiden öğrendim, hâlâ öğreniyorum. Zombie Plague ve Zombie Escape modlarına yönelik pluginler (banka, pet, ışık ayarları) yazıyorum. Ayrıca CS 1.6'ya uyarladığım, aktif bir sunucuda çalışan özel bir **Valorant modu** geliştirdim.
-
-<br/>
-
-<details>
-  <summary><b>🌍 English (Click to expand)</b></summary>
-  <br/>
-  Been around CS 1.6 for a long time. Started as a player, got into plugin development over time. Learned Pawn from a mentor, still learning. I write plugins mostly for Zombie Plague and Zombie Escape servers — banking, pets, light settings and more. I also made a custom <b>Valorant mod</b> for CS 1.6 with a skill system, agent abilities, and kill marks, currently running on a live private server.
-</details>
-
-<details>
-  <summary><b>🇰🇷 한국어 (클릭하여 펼치기)</b></summary>
-  <br/>
-  CS 1.6을 오래전부터 해왔습니다. 플레이어로 시작해서 자연스럽게 플러그인 개발로 넘어왔습니다. Pawn은 멘토에게 배웠고 지금도 배우는 중입니다. 주로 Zombie Plague, Zombie Escape 서버용 플러그인을 만듭니다 — 은행, 펫, 밝기 설정 등. CS 1.6용 <b>발로란트 모드</b>도 만들었습니다. 스킬 시스템, 요원 능력, 킬 마크가 있고 현재 서버에서 비공개로 운영 중입니다.
-</details>
-
-</div>
-
----
-
-### Kullandığım Kütüphaneler | Libraries Used | 사용 라이브러리
-
-![Pawn](https://img.shields.io/badge/Pawn-Language-5c6bc0?style=for-the-badge)
-![AMX Mod X](https://img.shields.io/badge/AMX%20Mod%20X-Core-1976D2?style=for-the-badge)
-![ReAPI](https://img.shields.io/badge/ReAPI-ReHLDS-00695c?style=for-the-badge)
-![HamSandwich](https://img.shields.io/badge/HamSandwich-Hooks-f57f17?style=for-the-badge)
-![Fakemeta](https://img.shields.io/badge/Fakemeta-Engine%20API-e65100?style=for-the-badge)
-![XS](https://img.shields.io/badge/XS-Vector%20Math-00acc1?style=for-the-badge)
-
----
-
-### Projeler / Projects / 프로젝트
-
-| 📌 | Proje / Project / 프로젝트 | 🇹🇷 Açıklama | 🌍 Description | 🇰🇷 설명 |
-|---|---|---|---|---|
-| ▪️ | [Novaria ZE Plague Mode](https://github.com/merhabalarrdev/Counter-Strike-1.6-Novaria-Zombie-Escape-Plague-Mode-) | Özel mod, sınıflar, envanter, VIP | Custom modes, classes, inventory, VIP | 커스텀 모드, 클래스, 인벤토리, VIP |
-| ▪️ | [Advanced Bank System](https://github.com/merhabalarrdev/Counter-Strike-1.6-Zombie-Plague-Advanced-Bank-System) | Ammo pack bankacılık, login/kayıt | Ammo pack banking, login/register | 탄약 팩 은행, 로그인/가입 |
-| ▪️ | [Advanced Pet System](https://github.com/merhabalarrdev/Counter-Strike-1.6-Advanced-Pet-System) | Evcil hayvan satın alma, admin panel | Pet buying, admin panel | 펫 구매, 관리자 패널 |
-| ▪️ | [Advanced Light Settings](https://github.com/merhabalarrdev/Counter-Strike-1.6-novaria-advanced-light-settings) | Oyuncu başına parlaklık kontrolü | Per-player brightness control | 플레이어별 밝기 조절 |
-| ▪️ | **Valorant Mod** *(Private)* | Skill, yetenek, kill mark sistemi | Skills, abilities, kill marks | 스킬, 능력, 킬 마크 시스템 |
-
----
-
-### GitHub İstatistikleri / Stats / 통계
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merhabalarrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhabalarrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+<p>
+  <a href="https://steamcommunity.com/profiles/76561199508358627/">
+    <img src="https://img.shields.io/badge/Steam-Profile-171a21?style=flat-square&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
 </p>
 
 </div>
+
+---
+
+### About
+
+I write plugins for Counter-Strike 1.6, mostly for Zombie Plague and Zombie Escape servers: banking, pets, lighting and more. I also built a private **Valorant mod** for CS 1.6 with a skill system, agent abilities and kill marks, running on a live server.
+
+<details>
+  <summary>🇹🇷 Türkçe</summary>
+  <br/>
+  CS 1.6 için plugin yazıyorum, ağırlıklı olarak Zombie Plague ve Zombie Escape sunucularına: banka, pet, ışık ayarı ve benzeri. Ayrıca aktif bir sunucuda çalışan özel bir <b>Valorant modu</b> geliştirdim; skill sistemi, ajan yetenekleri ve kill mark içeriyor.
+</details>
+
+<details>
+  <summary>🇰🇷 한국어</summary>
+  <br/>
+  CS 1.6용 플러그인을 만들고 있으며, 주로 Zombie Plague와 Zombie Escape 서버용입니다(은행, 펫, 밝기 설정 등). 스킬 시스템, 요원 능력, 킬 마크가 포함된 비공개 <b>발로란트 모드</b>도 개발했고 현재 서버에서 운영 중입니다.
+</details>
+
+---
+
+### Stack
+
+![Pawn](https://img.shields.io/badge/Pawn-5c6bc0?style=flat-square)
+![AMX Mod X](https://img.shields.io/badge/AMX%20Mod%20X-1976D2?style=flat-square)
+![ReAPI](https://img.shields.io/badge/ReAPI-00695c?style=flat-square)
+![HamSandwich](https://img.shields.io/badge/HamSandwich-f57f17?style=flat-square)
+![Fakemeta](https://img.shields.io/badge/Fakemeta-e65100?style=flat-square)
+
+---
+
+### Projects
+
+| Project | Description |
+|---|---|
+| [Novaria ZE Plague Mode](https://github.com/merhabalarrdev/Counter-Strike-1.6-Novaria-Zombie-Escape-Plague-Mode-) | Custom modes, classes, inventory, VIP |
+| [Advanced Bank System](https://github.com/merhabalarrdev/Counter-Strike-1.6-Zombie-Plague-Advanced-Bank-System) | Ammo pack banking with login/register |
+| [Advanced Pet System](https://github.com/merhabalarrdev/Counter-Strike-1.6-Advanced-Pet-System) | Pet shop and admin panel |
+| [Advanced Light Settings](https://github.com/merhabalarrdev/Counter-Strike-1.6-novaria-advanced-light-settings) | Per-player brightness control |
+| Valorant Mod *(private)* | Skills, abilities, kill marks |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=merhabalarrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhabalarrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+</p>
