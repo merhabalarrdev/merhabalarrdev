@@ -51,8 +51,3 @@ I write plugins for Counter-Strike 1.6, mostly for Zombie Plague and Zombie Esca
 | Valorant Mod *(private)* | Skills, abilities, kill marks |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merhabalarrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merhabalarrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-</p>
